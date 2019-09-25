@@ -9,6 +9,6 @@ and improve the workspace ergonomy. Blade was created by NZA
 and is writing in C/C++/javascript/python. For more
 informations read LICENSE file.
 
-repository : "https://github.com/DiamondsBattle/Blade-Browser"
-website : "nza3d.ga/blade"
-email : blade@nza3d.ga
+<br/>repository : "https://github.com/DiamondsBattle/Blade-Browser"
+<br/>website : "nza3d.ga/blade"
+<br/>email : blade@nza3d.ga
